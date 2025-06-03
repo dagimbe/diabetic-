@@ -1,0 +1,1186 @@
+2025-05-27 12:37:19,504 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 12:37:19,618 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:37:19,725 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 12:38:21,492 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 12:38:21,492 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 12:38:21,495 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:38:21,495 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:38:21,496 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 12:38:21,496 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 12:38:25,246 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 12:38:25,246 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 12:38:25,247 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 12:38:25,247 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 12:38:25,251 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 12:38:25,251 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 12:38:45,106 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:38:45,106 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:38:45,106 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:38:45,106 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:38:45,132 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:38:45,132 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:38:45,132 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:38:45,132 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,553 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:47,558 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,110 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:39:50,115 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:45:12,592 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 12:45:12,738 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:45:12,862 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 12:45:18,525 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 12:45:18,525 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 12:45:18,528 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:45:18,528 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:45:18,529 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 12:45:18,529 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 12:45:22,295 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 12:45:22,295 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 12:45:22,296 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 12:45:22,296 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 12:45:22,301 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 12:45:22,301 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 12:45:38,675 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:45:38,675 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:45:38,675 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:45:38,675 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:45:38,704 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:45:38,704 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:45:38,704 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:45:38,704 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,756 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:46,761 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,319 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:46:49,325 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:51:00,256 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 12:51:00,420 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:51:00,567 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 12:51:53,832 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 12:51:53,832 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 12:51:53,837 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:51:53,837 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 12:51:53,837 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 12:51:53,837 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 12:51:57,882 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 12:51:57,882 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 12:51:57,882 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 12:51:57,882 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 12:51:57,889 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 12:51:57,889 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 12:52:14,428 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:52:14,428 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:52:14,428 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:52:14,428 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 12:52:14,453 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:52:14,453 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:52:14,453 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 12:52:14,453 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:03:56,308 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:03:56,308 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:04:29,388 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:04:29,555 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:04:29,705 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:04:31,226 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:04:31,226 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:04:31,231 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:04:31,231 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:04:31,231 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:04:31,231 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:04:35,791 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:04:35,791 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:04:35,792 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:04:35,792 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:04:35,798 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:04:35,798 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:04:45,682 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:04:45,682 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:06:30,493 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:06:30,493 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:08:56,081 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:08:56,081 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:14:58,316 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:14:58,316 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:28,006 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:28,006 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:28,916 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:28,916 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:29,989 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:29,989 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:49,202 - FoodGlucoseApp - INFO - Prediction for 'pasta': 31.56 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:15:49,202 - FoodGlucoseApp - INFO - Prediction for 'pasta': 31.56 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:16:01,299 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:16:01,299 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:16:20,865 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:16:20,865 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:16:20,869 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:16:20,869 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:16:20,869 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:16:20,869 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:16:24,662 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:16:24,662 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:16:24,662 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:16:24,662 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:16:24,665 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:16:24,665 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:16:41,820 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:16:41,820 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:09,437 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:17:09,437 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:17:09,441 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:17:09,441 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:17:09,442 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:17:09,442 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:17:13,354 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:17:13,354 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:17:13,355 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:17:13,355 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:17:13,361 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:17:13,361 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:17:24,548 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:24,548 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:25,480 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:25,480 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:26,352 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:26,352 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:26,570 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:26,570 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:26,738 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:26,738 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:30,163 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:17:30,163 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:18:23,486 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:23,486 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:23,486 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:23,486 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:23,506 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:23,506 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:23,506 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:23,506 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,228 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:39,236 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,238 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:18:48,246 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:19:12,165 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:19:12,165 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:19:12,171 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:19:12,171 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:19:12,171 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:19:12,171 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:19:15,993 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:19:15,993 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:19:15,993 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:19:15,993 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:19:15,998 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:19:15,998 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:19:24,225 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:19:24,225 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:19:24,225 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:19:24,225 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:19:24,252 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:19:24,252 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:19:24,252 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:19:24,252 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:19:54,449 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:19:54,449 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:19:55,541 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:19:55,541 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:20:06,221 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 2.61 g/100g, {'recommendation': 'Recommended', 'details': 'Low glucose content, safe for diabetic patients.'}
+2025-05-27 13:20:06,221 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 2.61 g/100g, {'recommendation': 'Recommended', 'details': 'Low glucose content, safe for diabetic patients.'}
+2025-05-27 13:20:17,836 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:20:17,836 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:20:28,269 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:20:28,269 - FoodGlucoseApp - INFO - Prediction for 'injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:20:33,667 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:20:33,667 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:20:42,034 - FoodGlucoseApp - INFO - Prediction for 'shiro': 12.04 g/100g, {'recommendation': 'Caution', 'details': 'Moderate glucose content, consume in moderation for diabetic patients.'}
+2025-05-27 13:20:42,034 - FoodGlucoseApp - INFO - Prediction for 'shiro': 12.04 g/100g, {'recommendation': 'Caution', 'details': 'Moderate glucose content, consume in moderation for diabetic patients.'}
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,087 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:04,092 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:21:47,797 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:21:47,961 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:21:48,109 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:21:49,502 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:21:49,502 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:21:49,507 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:21:49,507 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:21:49,507 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:21:49,507 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:21:53,307 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:21:53,307 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:21:53,308 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:21:53,308 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:21:53,312 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:21:53,312 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:22:03,847 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:22:03,847 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:22:03,851 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:22:03,851 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:22:03,852 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:22:03,852 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:22:07,738 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:22:07,738 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:22:07,739 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:22:07,739 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:22:07,744 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:22:07,744 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:22:17,477 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:22:17,477 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:22:17,477 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:22:17,477 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:22:17,500 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:22:17,500 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:22:17,500 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:22:17,500 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:29:12,383 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:29:12,567 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:29:12,736 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:29:14,122 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:29:14,122 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:29:14,127 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:29:14,127 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:29:14,127 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:29:14,127 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:29:18,372 - FoodGlucoseApp - INFO - Best model R^2 score: 0.99
+2025-05-27 13:29:18,372 - FoodGlucoseApp - INFO - Best model R^2 score: 0.99
+2025-05-27 13:29:18,373 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:29:18,373 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:29:18,378 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:29:18,378 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:29:34,583 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:29:34,583 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:29:34,583 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:29:34,583 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:29:34,609 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:29:34,609 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:29:34,609 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:29:34,609 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:30:14,301 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:30:14,301 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:30:14,307 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:30:14,307 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:30:14,308 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:30:14,308 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:30:18,556 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:30:18,556 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:30:18,556 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:30:18,556 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:30:18,561 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:30:18,561 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:30:50,836 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:30:50,836 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:37:01,246 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:37:01,429 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:37:01,599 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:37:02,976 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:37:02,976 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:37:02,981 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:37:02,981 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:37:02,981 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:37:02,981 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:37:06,838 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:37:06,838 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:37:06,839 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:37:06,839 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:37:06,842 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:37:06,842 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:37:19,722 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:37:19,722 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:37:19,722 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:37:19,722 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:37:19,746 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:37:19,746 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:37:19,746 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:37:19,746 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,793 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:40:48,797 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:43:00,453 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:43:00,643 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:43:00,814 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:43:02,298 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:43:02,298 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:43:02,303 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:43:02,303 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:43:02,303 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:43:02,303 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:43:06,211 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:43:06,211 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:43:06,212 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:43:06,212 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:43:06,214 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:43:06,214 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:43:33,072 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:43:33,072 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:43:33,072 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:43:33,072 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:43:33,096 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:43:33,096 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:43:33,096 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:43:33,096 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:46:29,516 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:46:29,700 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:46:29,871 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:46:31,253 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:46:31,253 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:46:31,259 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:46:31,259 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:46:31,259 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:46:31,259 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:46:35,161 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:46:35,161 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:46:35,162 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:46:35,162 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 13:46:35,166 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:46:35,166 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:46:51,956 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:46:51,956 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:46:51,956 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:46:51,956 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:46:51,979 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:46:51,979 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:46:51,979 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:46:51,979 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:48:10,132 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:48:10,315 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:48:10,486 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:48:11,863 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:48:11,863 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:48:11,867 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:48:11,867 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:48:11,867 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:48:11,867 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:48:15,694 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:48:15,694 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:48:15,694 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:48:15,694 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:48:15,697 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:48:15,697 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:48:28,517 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:48:28,517 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:48:28,517 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:48:28,517 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:48:28,538 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:48:28,538 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:48:28,538 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:48:28,538 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:48:52,999 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:52,999 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:57,937 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:57,937 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:58,685 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:58,685 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:58,852 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:58,852 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,037 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,037 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,169 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,169 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,380 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,380 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,521 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,521 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,691 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,691 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,875 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:48:59,875 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:09,741 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:09,741 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:10,469 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:10,469 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:10,640 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:10,640 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:10,825 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:10,825 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:11,061 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:11,061 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:32,076 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:32,076 - FoodGlucoseApp - INFO - Prediction for 'Injera': 32.49 g/100g, {'recommendation': 'Not Recommended', 'details': 'High glucose content, may cause blood sugar spikes.'}
+2025-05-27 13:50:52,282 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:50:52,466 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:50:52,678 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:50:54,090 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:50:54,090 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:50:54,096 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:50:54,096 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:50:54,097 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:50:54,097 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:50:57,874 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-27 13:50:57,874 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-27 13:50:57,875 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:50:57,875 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:50:57,877 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:50:57,877 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:51:15,881 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:51:15,881 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:51:21,090 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:51:21,090 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:51:30,185 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:51:30,185 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:52:07,046 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:52:07,046 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:54:28,564 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:54:28,747 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:54:28,916 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:54:30,304 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:54:30,304 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:54:30,308 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:54:30,308 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:54:30,309 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:54:30,309 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:54:34,069 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:54:34,069 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:54:34,070 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:54:34,070 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:54:34,074 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:54:34,074 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:54:49,135 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:54:49,135 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:54:57,042 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:54:57,042 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:55:19,922 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 1.93 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load (15.00) or glucose content (1.93 g/100g), safe for diabetic patients.'}
+2025-05-27 13:55:19,922 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 1.93 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load (15.00) or glucose content (1.93 g/100g), safe for diabetic patients.'}
+2025-05-27 13:55:54,009 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:55:54,191 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:55:54,360 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:55:55,745 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:55:55,745 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:55:55,749 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:55:55,749 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:55:55,749 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:55:55,749 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:55:59,500 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:55:59,500 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:55:59,500 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:55:59,500 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 13:55:59,503 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:55:59,503 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:56:06,511 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:56:06,511 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:56:18,243 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:56:18,243 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:56:50,895 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 13:56:51,074 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:56:51,242 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 13:56:52,631 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:56:52,631 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 13:56:52,635 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:56:52,635 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 13:56:52,636 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:56:52,636 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 13:56:56,591 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:56:56,591 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 13:56:56,591 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:56:56,591 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-05-27 13:56:56,595 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:56:56,595 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 13:57:03,735 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:57:03,735 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 13:57:13,015 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:57:13,015 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:57:13,015 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:57:13,015 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-27 13:57:13,018 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:57:13,018 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:57:13,018 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:57:13,018 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-27 13:57:55,524 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:55,524 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,275 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,275 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,463 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,463 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,569 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,569 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,758 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,758 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,943 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:57:56,943 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 13:58:50,864 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.20 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load (15.00) or glucose content (3.20 g/100g), safe for diabetic patients.'}
+2025-05-27 13:58:50,864 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.20 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load (15.00) or glucose content (3.20 g/100g), safe for diabetic patients.'}
+2025-05-27 14:01:09,527 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 14:01:09,719 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:01:09,892 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 14:01:11,364 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 14:01:11,364 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 14:01:11,370 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:01:11,370 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:01:11,371 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 14:01:11,371 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 14:01:11,374 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 24)
+2025-05-27 14:01:11,374 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 24)
+2025-05-27 14:01:15,215 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-27 14:01:15,215 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-27 14:01:15,215 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 14:01:15,215 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 14:01:15,218 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 14:01:15,218 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 14:01:20,794 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 14:01:20,794 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 14:01:26,748 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-27 14:01:26,748 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-27 14:01:26,753 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [6.47424825]
+2025-05-27 14:01:26,753 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [6.47424825]
+2025-05-27 14:01:26,753 - FoodGlucoseApp - ERROR - Error processing request for 'doro wet': list index out of range
+2025-05-27 14:01:26,753 - FoodGlucoseApp - ERROR - Error processing request for 'doro wet': list index out of range
+2025-05-27 14:01:34,723 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-27 14:01:34,723 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-27 14:01:34,726 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [7.99650302]
+2025-05-27 14:01:34,726 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [7.99650302]
+2025-05-27 14:01:34,727 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 14:01:34,727 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 14:01:35,516 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-27 14:01:35,516 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-27 14:01:35,520 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [7.99650302]
+2025-05-27 14:01:35,520 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [7.99650302]
+2025-05-27 14:01:35,520 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 14:01:35,520 - FoodGlucoseApp - ERROR - Error processing request for 'Injera': list index out of range
+2025-05-27 14:02:40,969 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 14:02:41,151 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:02:41,317 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 14:02:42,706 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 14:02:42,706 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 14:02:42,711 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:02:42,711 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:02:42,712 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 14:02:42,712 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 14:02:42,717 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 24)
+2025-05-27 14:02:42,717 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 24)
+2025-05-27 14:02:46,873 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 14:02:46,873 - FoodGlucoseApp - INFO - Best model R^2 score: 0.98
+2025-05-27 14:02:46,873 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 14:02:46,873 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-27 14:02:46,876 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 14:02:46,876 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 14:03:43,376 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-27 14:03:43,563 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:03:43,734 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-27 14:03:45,113 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 14:03:45,113 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-27 14:03:45,118 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:03:45,118 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-27 14:03:45,118 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 14:03:45,118 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-27 14:03:45,122 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 24)
+2025-05-27 14:03:45,122 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 24)
+2025-05-27 14:03:49,063 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-27 14:03:49,063 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-27 14:03:49,063 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 14:03:49,063 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-27 14:03:49,067 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 14:03:49,067 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-27 14:03:54,853 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 14:03:54,853 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-27 14:04:04,809 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-27 14:04:04,809 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-27 14:04:04,821 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-27 14:04:04,821 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-27 14:04:04,822 - FoodGlucoseApp - INFO - Prediction for 'Injera': 29.19 g/100g, GL: 29.43, {'recommendation': 'Recommended', 'details': 'Teff injera has a low glycemic index (~50–57) and moderate glycemic load, suitable for diabetic patients in controlled portions.', 'glycemic_load': 29.43}
+2025-05-27 14:04:04,822 - FoodGlucoseApp - INFO - Prediction for 'Injera': 29.19 g/100g, GL: 29.43, {'recommendation': 'Recommended', 'details': 'Teff injera has a low glycemic index (~50–57) and moderate glycemic load, suitable for diabetic patients in controlled portions.', 'glycemic_load': 29.43}
+2025-05-27 14:04:15,183 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-27 14:04:15,183 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-27 14:04:15,192 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [3.35410723]
+2025-05-27 14:04:15,192 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [3.35410723]
+2025-05-27 14:04:15,193 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.35 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load or glucose content (3.35 g/100g), safe for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-27 14:04:15,193 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.35 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load or glucose content (3.35 g/100g), safe for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-29 00:30:24,857 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:30:24,857 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:30:24,857 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:30:24,857 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:30:24,857 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:30:24,857 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:30:24,880 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:30:24,880 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:30:24,880 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:30:24,880 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:30:24,880 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:30:24,880 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,383 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:30,403 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,683 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 24)
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:40,702 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.19074919]
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,306 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:30:47,331 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:31:32,114 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-29 00:31:32,114 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-29 00:31:36,924 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-29 00:31:36,924 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-29 00:31:36,936 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [3.35410723]
+2025-05-29 00:31:36,936 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [3.35410723]
+2025-05-29 00:31:36,936 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.35 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load or glucose content (3.35 g/100g), safe for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-29 00:31:36,936 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.35 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load or glucose content (3.35 g/100g), safe for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-29 00:31:53,847 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:31:53,847 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:31:53,858 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:31:53,858 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:31:53,858 - FoodGlucoseApp - INFO - Prediction for 'Injera': 29.19 g/100g, GL: 29.43, {'recommendation': 'Recommended', 'details': 'Teff injera has a low glycemic index (~50–57) and moderate glycemic load, suitable for diabetic patients in controlled portions.', 'glycemic_load': 29.43}
+2025-05-29 00:31:53,858 - FoodGlucoseApp - INFO - Prediction for 'Injera': 29.19 g/100g, GL: 29.43, {'recommendation': 'Recommended', 'details': 'Teff injera has a low glycemic index (~50–57) and moderate glycemic load, suitable for diabetic patients in controlled portions.', 'glycemic_load': 29.43}
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,426 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:00,434 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,909 - FoodGlucoseApp - INFO - Food vector shape for 'Injera': (1, 24)
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-29 00:32:07,931 - FoodGlucoseApp - INFO - Raw prediction for 'Injera': [29.19074919]
+2025-05-31 15:22:53,982 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-31 15:22:53,982 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-31 15:23:57,728 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-31 15:23:57,728 - FoodGlucoseApp - INFO - Food vector shape for 'doro wet': (1, 24)
+2025-05-31 15:23:57,739 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [3.35410723]
+2025-05-31 15:23:57,739 - FoodGlucoseApp - INFO - Raw prediction for 'doro wet': [3.35410723]
+2025-05-31 15:23:57,739 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.35 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load or glucose content (3.35 g/100g), safe for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 15:23:57,739 - FoodGlucoseApp - INFO - Prediction for 'doro wet': 3.35 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Low glycemic load or glucose content (3.35 g/100g), safe for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 15:25:21,395 - FoodGlucoseApp - INFO - Food vector shape for 'PASTA': (1, 24)
+2025-05-31 15:25:21,395 - FoodGlucoseApp - INFO - Food vector shape for 'PASTA': (1, 24)
+2025-05-31 15:25:21,406 - FoodGlucoseApp - INFO - Raw prediction for 'PASTA': [32.14059694]
+2025-05-31 15:25:21,406 - FoodGlucoseApp - INFO - Raw prediction for 'PASTA': [32.14059694]
+2025-05-31 15:25:21,407 - FoodGlucoseApp - INFO - Prediction for 'PASTA': 32.14 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (32.14 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 15:25:21,407 - FoodGlucoseApp - INFO - Prediction for 'PASTA': 32.14 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (32.14 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 15:26:59,336 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:26:59,336 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:26:59,336 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:26:59,336 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:26:59,345 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:26:59,345 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:26:59,345 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:26:59,345 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:06,610 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-31 15:27:06,610 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-31 15:27:06,610 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-31 15:27:06,610 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-31 15:27:06,610 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-31 15:27:06,610 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-31 15:27:06,610 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 24)
+2025-05-31 15:27:06,633 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-31 15:27:06,633 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-31 15:27:06,633 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-31 15:27:06,633 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-31 15:27:06,633 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-31 15:27:06,633 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-31 15:27:06,633 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.14059694]
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,022 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 15:27:14,029 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 16:06:56,015 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-31 16:06:56,016 - FoodGlucoseApp - ERROR - Error generating dataset: 'carb_range'
+2025-05-31 16:11:46,952 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-31 16:11:47,138 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 16:11:47,310 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-31 16:13:20,030 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-31 16:13:20,030 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-31 16:13:20,035 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 16:13:20,035 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 16:13:20,036 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-31 16:13:20,036 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-31 16:13:20,040 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 134)
+2025-05-31 16:13:20,040 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 134)
+2025-05-31 16:13:25,150 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-31 16:13:25,150 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-31 16:13:25,150 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-31 16:13:25,150 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-31 16:13:25,154 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-31 16:13:25,154 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-31 16:13:33,920 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-31 16:13:33,920 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-31 16:13:58,026 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 16:13:58,026 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 16:13:58,026 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 16:13:58,026 - FoodGlucoseApp - INFO - Loaded existing dataset.
+2025-05-31 16:13:58,031 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 16:13:58,031 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 16:13:58,031 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 16:13:58,031 - FoodGlucoseApp - INFO - Loaded existing model and vectorizer.
+2025-05-31 16:14:03,464 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 134)
+2025-05-31 16:14:03,464 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 134)
+2025-05-31 16:14:03,464 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 134)
+2025-05-31 16:14:03,464 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 134)
+2025-05-31 16:14:03,464 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 134)
+2025-05-31 16:14:03,464 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 134)
+2025-05-31 16:14:03,464 - FoodGlucoseApp - INFO - Food vector shape for 'Pasta': (1, 134)
+2025-05-31 16:14:03,470 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.10210254]
+2025-05-31 16:14:03,470 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.10210254]
+2025-05-31 16:14:03,470 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.10210254]
+2025-05-31 16:14:03,470 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.10210254]
+2025-05-31 16:14:03,470 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.10210254]
+2025-05-31 16:14:03,470 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.10210254]
+2025-05-31 16:14:03,470 - FoodGlucoseApp - INFO - Raw prediction for 'Pasta': [32.10210254]
+2025-05-31 16:14:46,629 - FoodGlucoseApp - INFO - Food vector shape for 'PASTA': (1, 134)
+2025-05-31 16:14:46,629 - FoodGlucoseApp - INFO - Food vector shape for 'PASTA': (1, 134)
+2025-05-31 16:14:46,633 - FoodGlucoseApp - INFO - Raw prediction for 'PASTA': [32.10210254]
+2025-05-31 16:14:46,633 - FoodGlucoseApp - INFO - Raw prediction for 'PASTA': [32.10210254]
+2025-05-31 16:14:46,634 - FoodGlucoseApp - INFO - Prediction for 'PASTA': 32.10 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (32.10 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:14:46,634 - FoodGlucoseApp - INFO - Prediction for 'PASTA': 32.10 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (32.10 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:14:55,117 - FoodGlucoseApp - INFO - Food vector shape for 'pasta': (1, 134)
+2025-05-31 16:14:55,117 - FoodGlucoseApp - INFO - Food vector shape for 'pasta': (1, 134)
+2025-05-31 16:14:55,120 - FoodGlucoseApp - INFO - Raw prediction for 'pasta': [32.10210254]
+2025-05-31 16:14:55,120 - FoodGlucoseApp - INFO - Raw prediction for 'pasta': [32.10210254]
+2025-05-31 16:14:55,120 - FoodGlucoseApp - INFO - Prediction for 'pasta': 32.10 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (32.10 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:14:55,120 - FoodGlucoseApp - INFO - Prediction for 'pasta': 32.10 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (32.10 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:15:06,094 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 134)
+2025-05-31 16:15:06,094 - FoodGlucoseApp - INFO - Food vector shape for 'injera': (1, 134)
+2025-05-31 16:15:06,098 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.48535538]
+2025-05-31 16:15:06,098 - FoodGlucoseApp - INFO - Raw prediction for 'injera': [29.48535538]
+2025-05-31 16:15:06,098 - FoodGlucoseApp - INFO - Prediction for 'injera': 29.49 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Teff injera has a low glycemic index (~50–57) and moderate glycemic load, suitable for diabetic patients in controlled portions.', 'glycemic_load': 15.0}
+2025-05-31 16:15:06,098 - FoodGlucoseApp - INFO - Prediction for 'injera': 29.49 g/100g, GL: 15.0, {'recommendation': 'Recommended', 'details': 'Teff injera has a low glycemic index (~50–57) and moderate glycemic load, suitable for diabetic patients in controlled portions.', 'glycemic_load': 15.0}
+2025-05-31 16:15:15,118 - FoodGlucoseApp - INFO - Food vector shape for 'cake': (1, 134)
+2025-05-31 16:15:15,118 - FoodGlucoseApp - INFO - Food vector shape for 'cake': (1, 134)
+2025-05-31 16:15:15,123 - FoodGlucoseApp - INFO - Raw prediction for 'cake': [22.22292132]
+2025-05-31 16:15:15,123 - FoodGlucoseApp - INFO - Raw prediction for 'cake': [22.22292132]
+2025-05-31 16:15:15,123 - FoodGlucoseApp - INFO - Prediction for 'cake': 22.22 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (22.22 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:15:15,123 - FoodGlucoseApp - INFO - Prediction for 'cake': 22.22 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (22.22 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:15:46,662 - FoodGlucoseApp - INFO - Food vector shape for 'Opera Cake': (1, 134)
+2025-05-31 16:15:46,662 - FoodGlucoseApp - INFO - Food vector shape for 'Opera Cake': (1, 134)
+2025-05-31 16:15:46,665 - FoodGlucoseApp - INFO - Raw prediction for 'Opera Cake': [22.81634807]
+2025-05-31 16:15:46,665 - FoodGlucoseApp - INFO - Raw prediction for 'Opera Cake': [22.81634807]
+2025-05-31 16:15:46,666 - FoodGlucoseApp - INFO - Prediction for 'Opera Cake': 22.82 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (22.82 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:15:46,666 - FoodGlucoseApp - INFO - Prediction for 'Opera Cake': 22.82 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (22.82 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:16:12,897 - FoodGlucoseApp - INFO - Food vector shape for 'Churros': (1, 134)
+2025-05-31 16:16:12,897 - FoodGlucoseApp - INFO - Food vector shape for 'Churros': (1, 134)
+2025-05-31 16:16:12,901 - FoodGlucoseApp - INFO - Raw prediction for 'Churros': [25.43806151]
+2025-05-31 16:16:12,901 - FoodGlucoseApp - INFO - Raw prediction for 'Churros': [25.43806151]
+2025-05-31 16:16:12,901 - FoodGlucoseApp - INFO - Prediction for 'Churros': 25.44 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (25.44 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:16:12,901 - FoodGlucoseApp - INFO - Prediction for 'Churros': 25.44 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (25.44 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:16:58,984 - FoodGlucoseApp - INFO - Food vector shape for 'Red Velvet Cake': (1, 134)
+2025-05-31 16:16:58,984 - FoodGlucoseApp - INFO - Food vector shape for 'Red Velvet Cake': (1, 134)
+2025-05-31 16:16:58,988 - FoodGlucoseApp - INFO - Raw prediction for 'Red Velvet Cake': [25.81370545]
+2025-05-31 16:16:58,988 - FoodGlucoseApp - INFO - Raw prediction for 'Red Velvet Cake': [25.81370545]
+2025-05-31 16:16:58,989 - FoodGlucoseApp - INFO - Prediction for 'Red Velvet Cake': 25.81 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (25.81 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:16:58,989 - FoodGlucoseApp - INFO - Prediction for 'Red Velvet Cake': 25.81 g/100g, GL: 15.0, {'recommendation': 'Caution', 'details': 'Moderate glycemic load or glucose content (25.81 g/100g), consume in moderation for diabetic patients.', 'glycemic_load': 15.0}
+2025-05-31 16:18:24,099 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-31 16:18:24,099 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-31 16:18:24,104 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 16:18:24,104 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 16:18:24,105 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-31 16:18:24,105 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-31 16:18:24,108 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 134)
+2025-05-31 16:18:24,108 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 134)
+2025-05-31 16:18:29,877 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-31 16:18:29,877 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-05-31 16:18:29,878 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-31 16:18:29,878 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-05-31 16:18:29,886 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-31 16:18:29,886 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-31 16:18:39,499 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-31 16:18:39,499 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-05-31 16:18:46,025 - FoodGlucoseApp - INFO - Food vector shape for 'Red Velvet Cake': (1, 134)
+2025-05-31 16:18:46,025 - FoodGlucoseApp - INFO - Food vector shape for 'Red Velvet Cake': (1, 134)
+2025-05-31 16:18:46,038 - FoodGlucoseApp - INFO - Raw prediction for 'Red Velvet Cake': [28.17856537]
+2025-05-31 16:18:46,038 - FoodGlucoseApp - INFO - Raw prediction for 'Red Velvet Cake': [28.17856537]
+2025-05-31 16:18:46,038 - FoodGlucoseApp - INFO - Prediction for 'Red Velvet Cake': 28.18 g/100g, GL: 15.0, {'recommendation': 'Not Recommended', 'details': 'High glycemic load or glucose content (28.18 g/100g), may cause blood sugar spikes.', 'glycemic_load': 15.0}
+2025-05-31 16:18:46,038 - FoodGlucoseApp - INFO - Prediction for 'Red Velvet Cake': 28.18 g/100g, GL: 15.0, {'recommendation': 'Not Recommended', 'details': 'High glycemic load or glucose content (28.18 g/100g), may cause blood sugar spikes.', 'glycemic_load': 15.0}
+2025-05-31 18:53:10,938 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-05-31 18:53:11,135 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 18:53:11,305 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-05-31 18:53:19,124 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-31 18:53:19,124 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-05-31 18:53:19,129 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 18:53:19,129 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-05-31 18:53:19,130 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-31 18:53:19,130 - FoodGlucoseApp - INFO - Starting model training...
+2025-05-31 18:53:19,137 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 158)
+2025-05-31 18:53:19,137 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 158)
+2025-05-31 18:53:24,342 - FoodGlucoseApp - INFO - Best model R^2 score: 0.96
+2025-05-31 18:53:24,342 - FoodGlucoseApp - INFO - Best model R^2 score: 0.96
+2025-05-31 18:53:24,343 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-31 18:53:24,343 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 50}
+2025-05-31 18:53:24,347 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-05-31 18:53:24,347 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-06-01 11:49:07,310 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-06-01 11:49:07,517 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-01 11:49:07,704 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-06-01 11:49:22,344 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-06-01 11:49:22,344 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-06-01 11:49:22,349 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-01 11:49:22,349 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-01 11:49:22,349 - FoodGlucoseApp - INFO - Starting model training...
+2025-06-01 11:49:22,349 - FoodGlucoseApp - INFO - Starting model training...
+2025-06-01 11:49:22,361 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 158)
+2025-06-01 11:49:22,361 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 158)
+2025-06-01 11:49:29,545 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-06-01 11:49:29,545 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-06-01 11:49:29,546 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-06-01 11:49:29,546 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+2025-06-01 11:49:29,552 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-06-01 11:49:29,552 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-06-03 01:49:33,885 - FoodGlucoseApp - ERROR - Model or vectorizer file not found: [Errno 2] No such file or directory: '../food_glucose_model.pkl'
+2025-06-03 01:49:33,885 - FoodGlucoseApp - ERROR - Model or vectorizer file not found: [Errno 2] No such file or directory: '../food_glucose_model.pkl'
+2025-06-03 02:01:18,721 - FoodGlucoseApp - ERROR - Model or vectorizer file not found: [Errno 2] No such file or directory: '../food_glucose_model.pkl'
+2025-06-03 02:01:18,721 - FoodGlucoseApp - ERROR - Model or vectorizer file not found: [Errno 2] No such file or directory: '../food_glucose_model.pkl'
+2025-06-03 02:03:17,422 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-06-03 02:03:17,641 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-03 02:03:17,802 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-06-03 02:03:48,853 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-06-03 02:03:48,853 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-06-03 02:03:48,859 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-03 02:03:48,859 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-03 02:03:48,859 - FoodGlucoseApp - INFO - Starting model training...
+2025-06-03 02:03:48,859 - FoodGlucoseApp - INFO - Starting model training...
+2025-06-03 02:03:48,869 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 158)
+2025-06-03 02:03:48,869 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 158)
+2025-06-03 02:03:54,836 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-06-03 02:03:54,836 - FoodGlucoseApp - INFO - Best model R^2 score: 0.97
+2025-06-03 02:03:54,836 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-06-03 02:03:54,836 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-06-03 02:03:54,845 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-06-03 02:03:54,845 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-06-03 02:04:02,951 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-06-03 02:04:02,951 - FoodGlucoseApp - INFO - Model and vectorizer loaded successfully.
+2025-06-03 02:24:08,242 - FoodGlucoseApp - INFO - Generating dataset with 50000 samples...
+2025-06-03 02:24:08,433 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-03 02:24:08,593 - FoodGlucoseApp - INFO - Dataset saved to '../food_carbohydrate_dataset.csv'
+2025-06-03 02:24:16,644 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-06-03 02:24:16,644 - FoodGlucoseApp - INFO - Generating dataset with 1000 samples...
+2025-06-03 02:24:16,649 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-03 02:24:16,649 - FoodGlucoseApp - INFO - Dataset generated successfully.
+2025-06-03 02:24:16,650 - FoodGlucoseApp - INFO - Starting model training...
+2025-06-03 02:24:16,650 - FoodGlucoseApp - INFO - Starting model training...
+2025-06-03 02:24:16,655 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 135)
+2025-06-03 02:24:16,655 - FoodGlucoseApp - INFO - Feature matrix shape: (1000, 135)
+2025-06-03 02:24:22,196 - FoodGlucoseApp - INFO - Best model R^2 score: 0.96
+2025-06-03 02:24:22,196 - FoodGlucoseApp - INFO - Best model R^2 score: 0.96
+2025-06-03 02:24:22,197 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-06-03 02:24:22,197 - FoodGlucoseApp - INFO - Best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 200}
+2025-06-03 02:24:22,205 - FoodGlucoseApp - INFO - Model and vectorizer saved.
+2025-06-03 02:24:22,205 - FoodGlucoseApp - INFO - Model and vectorizer saved.

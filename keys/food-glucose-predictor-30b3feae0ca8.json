@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "food-glucose-predictor",
+  "private_key_id": "30b3feae0ca8d16b341eb5e6bed9670eda419737",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCVm0CcloCLhOmw\npHDiJrcIsC4VQUFdLhbMbAqzjiABmp6DPOuuvEOIhZImXw9JT5EzEIeykI/y42Hy\nxnoTQNUDj35v3Ftf7d4IlUJ6WBYeA7bevYtTN8UP03409zJZh1yyZoyjoBSIxWSw\nUvi80DO8Tlp9jFhSM1WOJdws+F76FqZr3zt9iZ4QBEdDAMWAafTN1rXAOojc5j4X\ngzFXM3CTgdD6MP8DXyhylPek0UlYTO9bZxxi51PY15kr6x7iLV6HRlbeyp0oZgU1\notQTSCpT7olGEK0sML9ikegBfziOH/1d290hXV1J4QZyEBNNAsjwMozS0zO5NpA1\nQPVy52JXAgMBAAECggEAGWAX+XddnkyRBrEdpH5ElWisqFZFK/ThURMSTZpRu3Pq\nZwAySZUNL17Yh0GgaiLg0fR/z73NbLk8p90aX6Gjf9Ma8wZBSWgjPPl0KSQ/vB+N\nKQKlWxwehKyuv3UeSSk4g9n5CNfiI8C3b2DjZ8M4wzvXBWyEnoyueknZqpcGJQzo\nDoGBu6z1hySvhddeCRl4/ppIPwqaSyJhWmYU6kFp83Un1OekrIFgHEPWuEFMzBgk\nmZ/6BrctpHKjc6MYGsSbkDmv3VzL0ra2hS7+/dGUEQYlOI5Vxoqj2mlRniONa00Q\nHcZrSdE0sXwF+BufP0xAxJ1tLqS4h3b1IRc5/p4xwQKBgQDHq5ztHAYUDtgMpKoc\nhOR9k7f8sVUrsCXsjY3g8D3CaX2gy4j1qvUt11guClcsE+I43QOKpMbY5hBHX5Bq\n/X+P56oduTOd484EFgZYbFn7s1zlkW5abAWDx5UH3WSKSWH0jwv2lrd8faoqn2q7\nDjut2F9wv1JgI1DyOM0uVTi67wKBgQC/z/m15V3tNwL9fDAQmyz7mdlKk5MSDrRs\ngw/z0HmXNNCeIB0VgHBSLJpnfnjkfVM010VctkTb9XGPAVtC6XPnBBVzS83ff33n\n+i0DsZpm8cRwDnX1yCx3pKIjH9b7rN9NjkUk5qn3NoDvcPZsuHqlKQAdXT9Bqf2l\nifCHU6jvGQKBgQCZLyECi9hh9Q1tjbrwjEfby8OAuu/Tx50gwWzS4J0RFOuLu/sE\nNrdJBwggslA0gcCxzWXVLRtc9gwRJdDfNEJ0PdA2Y4qlHEtGuTr/BYl3YCDqAsv9\n1RfaBPliAkkLCsd632/XK8PzX1l4v7sbbQz+D50RG8bv+Mg2PLu1Sy5twwKBgFjU\nqXGq4r/sHS9lpyDZrJBs5KvcAl13f+lNHUMuBlGXfRHuD2oYzGvSCkPp13UB8Vnk\nZFQWeXdgiRHQcAJh+XJAeuqlbZeXBKk9PEGcq8QHLZEzsT99T9Ks5QXdRgPSQKw7\nOhxn0skRbc72ArnBCdOZVFtFBvmTD0vtwP37KZ5pAoGBAJPcdisnynPjTUlRezDa\nCWow4xkAbSw3acb+oZdquuhRl+Vnaeen9DFyMoJr842+BHKTpDedKtX+RBkKW2hp\nSKYK9q7Qcy/0SHGpOPu5hhkFLvemSquDRwx9hSmRNdoUn27K9NePI2B7O3vTdQ/h\nXpRO7lyzVLN0PwnMi250jVWS\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api-user@food-glucose-predictor.iam.gserviceaccount.com",
+  "client_id": "118364818350570744355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-user%40food-glucose-predictor.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
